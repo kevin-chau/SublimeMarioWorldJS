@@ -1,4 +1,4 @@
-# SuperMarioWorldJS ([Demo](https://kevinchau321.github.io/SuperMarioWorldJS/))
+# SuperMarioWorldJS ([Demo](https://kevinchau321.github.io/SublimeMarioWorldJS/))
 Super Mario World built with Phaser.
 
 <p align="center">
@@ -19,7 +19,7 @@ Play the demo online at <a href="https://kevinchau321.github.io/SuperMarioWorldJ
 # Installing
 This project uses `node` and `npm` to get up and running:
 
-    git clone https://github.com/kevinchau321/SuperMarioWorldJS.git
+    git clone https://github.com/kevinchau321/SublimeMarioWorldJS.git
     cd SuperMarioWorldJS
     npm install
 
