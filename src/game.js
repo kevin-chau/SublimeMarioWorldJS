@@ -8,14 +8,14 @@ var scoreText;
 
 function preload() {
 
-	game.load.image('sky', 'assets/maps/yoshis-island-1/background.png');
+	game.load.image('sky', 'assets/maps/yoshis-island-1/backgroundmonokai.png');
 	game.load.image('ground', 'assets/tutorial/platform.png');
 	game.load.image('star', 'assets/tutorial/star.png');
-	game.load.atlasJSONArray('mario', 'assets/sprites/spritesheets/mario.png', 'assets/sprites/spritesheets/mario.json');
+	game.load.atlasJSONArray('mario', 'assets/sprites/spritesheets/mariomonokai.png', 'assets/sprites/spritesheets/mario.json');
 	game.load.atlasJSONArray('items', 'assets/items/items.png', 'assets/items/items.json');
 	game.load.atlasJSONArray('hud', 'assets/hud/hud.png', 'assets/hud/hud.json');
-	game.load.atlasJSONArray('groundTiles', 'assets/maps/tiles/ground.png', 'assets/maps/tiles/ground.json');
-	game.load.atlasJSONArray('background-objects', 'assets/backgrounds/background-objects.png', 'assets/backgrounds/background-objects.json');
+	game.load.atlasJSONArray('groundTiles', 'assets/maps/tiles/groundmonokai.png', 'assets/maps/tiles/ground.json');
+	game.load.atlasJSONArray('background-objects', 'assets/backgrounds/background-objectsmonokai.png', 'assets/backgrounds/background-objects.json');
 
   // scale the game 4x
   game.scale.scaleMode = Phaser.ScaleManager.USER_SCALE;
