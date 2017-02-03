@@ -1,10 +1,9 @@
 body {
-  background-color: black;
+  background-color: #272822;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size:cover;
   background-position: center;
-  background-image: url("https://i.ytimg.com/vi/RGMXzg1lXqM/maxresdefault.jpg");
 }
 
 canvas
